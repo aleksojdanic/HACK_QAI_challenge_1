@@ -36,7 +36,7 @@ python -m venv .venv
 pip install -r requirements.txt
 
 ```
-##📘 Usage
+## 📘 Usage
 Launch Jupyter Notebook
 ```
 jupyter notebook
@@ -51,13 +51,13 @@ Import the QCNN model directly
 ```
 from qai_model import QCNNModel
 ```
-##📌 Notes
+## 📌 Notes
 
 - The dataset used in the challenge was partially private and is not included here.
 - Virtual environments, caches, and large binary files are excluded via .gitignore.
 - QCNN_inference_pyc.zip is included exactly as provided by the organizers.
 
-##📝 License
+## 📝 License
 
 Created for the QAI Hackathon 2025.
 Feel free to reuse or modify.
